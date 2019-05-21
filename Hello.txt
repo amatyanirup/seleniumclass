@@ -1,0 +1,2 @@
+hello we are learning git hub.
+we are studying a github and pushing to git up.
